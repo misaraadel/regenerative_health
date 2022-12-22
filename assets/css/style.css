@@ -229,6 +229,10 @@ html[dir=ltr] .services-type .content ul li::after {
   left: 0px !important;
   right: unset;
 }
+html[dir=ltr] .header ul li::after {
+  left: unset;
+  right: -25px;
+}
 
 a {
   text-decoration: none !important;
@@ -254,7 +258,7 @@ a {
   width: fit-content;
   margin: 0px auto 10px !important;
   font-family: "bold";
-  font-size: 20px;
+  font-size: 22px;
   padding: 0px 20px 40px 20px;
   position: relative;
 }
@@ -349,7 +353,7 @@ a {
   padding: 0.5rem 0rem;
   color: #666;
   font-family: "bold";
-  font-size: 16px;
+  font-size: 15px;
   transition: all 0.8s linear;
 }
 .navbar .nav-content .navbar-nav .nav-item::after {
@@ -687,7 +691,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   text-align: center;
 }
 .who-us .box .content h4 {
-  font-size: 20px;
+  font-size: 22px;
   font-family: "bold";
   margin-bottom: 20px;
   color: #222;
@@ -695,14 +699,14 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 }
 .who-us .box .content p {
   color: #666;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.8rem;
   font-family: "regular";
 }
 .who-us .box .content .link i {
   color: #d91b5c;
   margin: 0px 10px;
-  font-size: 20px;
+  font-size: 22px;
 }
 .who-us .box .content .link span {
   color: #888;
@@ -747,7 +751,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 .services .content p {
   color: #999;
   line-height: 2rem;
-  font-size: 14px;
+  font-size: 18px;
   font-family: "regular";
 }
 .services .image-content {
@@ -878,7 +882,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 .services-type .nav .nav-item span {
   color: #222;
   font-family: "regular";
-  font-size: 16px;
+  font-size: 18px;
   transition: all 0.4s linear;
   margin: 20px 0px 10px 0px;
 }
@@ -1052,7 +1056,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 }
 .positions .box .content p {
   font-family: "regular";
-  font-size: 14px;
+  font-size: 18px;
   color: #666;
   line-height: 1.9rem;
   margin: 0px;
@@ -1099,17 +1103,17 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 .contact-us .form .form-group input::-moz-placeholder, .contact-us .form .form-group select::-moz-placeholder, .contact-us .form .form-group option::-moz-placeholder, .contact-us .form .form-group textarea::-moz-placeholder {
   font-size: #888;
   font-family: "regular";
-  font-size: 16px;
+  font-size: 18px;
 }
 .contact-us .form .form-group input:-ms-input-placeholder, .contact-us .form .form-group select:-ms-input-placeholder, .contact-us .form .form-group option:-ms-input-placeholder, .contact-us .form .form-group textarea:-ms-input-placeholder {
   font-size: #888;
   font-family: "regular";
-  font-size: 16px;
+  font-size: 18px;
 }
 .contact-us .form .form-group input::placeholder, .contact-us .form .form-group select::placeholder, .contact-us .form .form-group option::placeholder, .contact-us .form .form-group textarea::placeholder {
   font-size: #888;
   font-family: "regular";
-  font-size: 16px;
+  font-size: 18px;
 }
 .contact-us .form .form-group input:active, .contact-us .form .form-group select:active, .contact-us .form .form-group option:active, .contact-us .form .form-group textarea:active {
   box-shadow: 0px 0px 10px #eaeaea;
@@ -1203,7 +1207,7 @@ footer .content .socail-media a {
 }
 footer .content .socail-media a i {
   color: #d91b5c;
-  font-size: 20px;
+  font-size: 22px;
   transition: all 0.5s linear;
 }
 footer .content .socail-media a:hover {
@@ -1256,7 +1260,7 @@ footer .content .links li a::after {
 .copyrights p {
   color: #fff;
   margin: 0px;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "regular";
 }
 
