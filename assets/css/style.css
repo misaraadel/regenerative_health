@@ -259,6 +259,7 @@ a {
   margin: 0px auto 10px !important;
   font-family: "bold";
   font-size: 35px;
+  line-height: 2.8rem;
   padding: 0px 20px 40px 20px;
   position: relative;
 }
@@ -285,7 +286,7 @@ a {
 .heading p {
   color: #777;
   font-size: 25px;
-  line-height: 1.8rem;
+  line-height: 2.8rem;
   font-family: "regular";
 }
 
@@ -354,6 +355,7 @@ a {
   color: #666;
   font-family: "bold";
   font-size: 25px;
+  line-height: 2.8rem;
   transition: all 0.8s linear;
 }
 .navbar .nav-content .navbar-nav .nav-item::after {
@@ -474,6 +476,7 @@ header .content h6 {
   color: #f9f9f9;
   margin-bottom: 20px;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
   opacity: 0;
 }
@@ -484,6 +487,7 @@ header .content h4 {
   will-change: transform, opacity;
   font-family: "bold";
   font-size: 35px;
+  line-height: 2.8rem;
   margin-bottom: 20px;
 }
 header .content p {
@@ -492,6 +496,7 @@ header .content p {
   text-align: justify;
   line-height: 2rem;
   font-size: 25px;
+  line-height: 2.8rem;
   opacity: 0;
   transform: translateY(-20%);
   will-change: transform, opacity;
@@ -617,6 +622,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 }
 .header ul li a, .header ul li span {
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "bold";
 }
 .header ul li a {
@@ -692,6 +698,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 }
 .who-us .box .content h4 {
   font-size: 35px;
+  line-height: 2.8rem;
   font-family: "bold";
   margin-bottom: 20px;
   color: #222;
@@ -700,17 +707,19 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 .who-us .box .content p {
   color: #666;
   font-size: 25px;
-  line-height: 1.8rem;
+  line-height: 2.8rem;
   font-family: "regular";
 }
 .who-us .box .content .link i {
   color: #d91b5c;
   margin: 0px 10px;
   font-size: 35px;
+  line-height: 2.8rem;
 }
 .who-us .box .content .link span {
   color: #888;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
 }
 .who-us .box:hover {
@@ -746,12 +755,14 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   color: #222;
   font-family: "bold";
   font-size: 25px;
+  line-height: 2.8rem;
   margin-bottom: 20px;
 }
 .services .content p {
   color: #999;
   line-height: 2rem;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
 }
 .services .image-content {
@@ -883,6 +894,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   color: #222;
   font-family: "regular";
   font-size: 25px;
+  line-height: 2.8rem;
   transition: all 0.4s linear;
   margin: 20px 0px 10px 0px;
 }
@@ -938,6 +950,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   margin: 15px 0px;
   color: #999;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
   position: relative;
 }
@@ -1029,6 +1042,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
 }
 .positions .box .image-content .rate i {
   font-size: 25px;
+  line-height: 2.8rem;
   color: #ddd;
   margin: 0px 5px;
   opacity: 0;
@@ -1052,11 +1066,13 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   color: #d91b5c;
   font-family: "bold";
   font-size: 25px;
+  line-height: 2.8rem;
   margin-bottom: 10px;
 }
 .positions .box .content p {
   font-family: "regular";
   font-size: 25px;
+  line-height: 2.8rem;
   color: #666;
   line-height: 1.9rem;
   margin: 0px;
@@ -1098,22 +1114,26 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   border: 1px solid #999;
   border-radius: 5px;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
 }
 .contact-us .form .form-group input::-moz-placeholder, .contact-us .form .form-group select::-moz-placeholder, .contact-us .form .form-group option::-moz-placeholder, .contact-us .form .form-group textarea::-moz-placeholder {
   font-size: #888;
   font-family: "regular";
   font-size: 25px;
+  line-height: 2.8rem;
 }
 .contact-us .form .form-group input:-ms-input-placeholder, .contact-us .form .form-group select:-ms-input-placeholder, .contact-us .form .form-group option:-ms-input-placeholder, .contact-us .form .form-group textarea:-ms-input-placeholder {
   font-size: #888;
   font-family: "regular";
   font-size: 25px;
+  line-height: 2.8rem;
 }
 .contact-us .form .form-group input::placeholder, .contact-us .form .form-group select::placeholder, .contact-us .form .form-group option::placeholder, .contact-us .form .form-group textarea::placeholder {
   font-size: #888;
   font-family: "regular";
   font-size: 25px;
+  line-height: 2.8rem;
 }
 .contact-us .form .form-group input:active, .contact-us .form .form-group select:active, .contact-us .form .form-group option:active, .contact-us .form .form-group textarea:active {
   box-shadow: 0px 0px 10px #eaeaea;
@@ -1143,6 +1163,7 @@ header .owl-theme .owl-dots .owl-dot.active span::after, header .owl-theme .owl-
   color: #fff;
   font-family: "regular";
   font-size: 25px;
+  line-height: 2.8rem;
 }
 .contact-us .map-contain {
   width: 100%;
@@ -1183,6 +1204,7 @@ footer .content p {
   color: #444;
   line-height: 2rem;
   font-size: 25px;
+  line-height: 2.8rem;
   margin: 20px 0px;
   font-family: "regular";
   text-align: justify;
@@ -1208,6 +1230,7 @@ footer .content .socail-media a {
 footer .content .socail-media a i {
   color: #d91b5c;
   font-size: 35px;
+  line-height: 2.8rem;
   transition: all 0.5s linear;
 }
 footer .content .socail-media a:hover {
@@ -1236,6 +1259,7 @@ footer .content .links li a {
   padding: 0px 20px;
   color: #333;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
   position: relative;
 }
@@ -1261,6 +1285,7 @@ footer .content .links li a::after {
   color: #fff;
   margin: 0px;
   font-size: 25px;
+  line-height: 2.8rem;
   font-family: "regular";
 }
 
