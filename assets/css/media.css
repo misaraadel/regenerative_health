@@ -1,16 +1,28 @@
 @media (max-width: 900px) {
     h1,h2,h3 {
         font-size: 25px !important;
+        line-height: 1.4rem !important;
     }
     h4 {
         font-size: 20px !important;
+        line-height: 1.4rem !important;
     }
     h5, h6{
         font-size: 20px !important;
+        line-height: 1.4rem !important;
     }
     p , a , li , button {
         font-size: 16px !important;
+        line-height: 1.4rem !important;
     }
+    header {
+        padding-top: 110px !important;
+    }
+
+    header .image-content {
+        transform: translateY(16px) !important;
+    }
+
     header , .services-type{
         padding-bottom: 0px !important;
     }
@@ -139,5 +151,10 @@
     }
     .hamburger{
         display: block !important;
+    }
+
+    .services-type .nav .nav-item span {
+        font-size: 15px !important;
+        line-height: unset !important;
     }
 }
